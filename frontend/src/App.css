@@ -461,3 +461,96 @@ a{
   font-weight: 400 - 700;
   font-style: normal;
 }
+/* page 4*/
+.custom-container {
+  background-color: #fff;
+  padding: 1.5rem 2rem;
+}
+
+.custom-content {
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+.custom-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.custom-title {
+  color: #ea4c89;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.custom-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  fill: #333;
+}
+
+.custom-icon-holder{
+  margin-right:85%;
+  margin-top: 9px;
+  background-color: #f3f4f6;
+  border-radius: 10%;
+}
+.custom-subtitle {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.custom-text {
+  text-align: center;
+  color: #666;
+  font-size: 0.875rem;
+  margin-bottom: 2rem;
+}
+
+.custom-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 80px;
+}
+
+.custom-card {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.custom-image {
+  margin-bottom: 1rem;
+  width: 150px;
+  height: 110px;
+  object-fit: cover;
+}
+
+.custom-description {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.custom-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  padding: 1.5rem 3.5rem;
+}
+
+.custom-button-style {
+  background-color: #ea4c89;
+  color: #fff;
+  padding: 0.5rem 3rem;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font-size: 0.875rem;
+}
