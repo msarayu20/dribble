@@ -15,7 +15,7 @@ export default function HeaderComponent() {
                     height="24"
                     viewBox="0 0 24 24"
                     fill="none"
-                    stroke="#ff7675"
+                    stroke="#808080"
                     strokeWidth="2"
                     strokeLinecap="round"
                     strokeLinejoin="round"

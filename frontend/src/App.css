@@ -179,7 +179,7 @@ input {
 }
 
 .font-semibold {
-  font-weight: 600;
+  font-weight:bolder;
 }
 
 .mb-4 {
@@ -229,7 +229,7 @@ input {
 }
 
 .bg-pink-500 {
-  background-color: #ff7675;
+  background-color: #ea4c89;
 }
 
 .text-white {
@@ -241,10 +241,8 @@ input {
   border: none;
 }
 /* Page 3 */
-/* styles.css */
 
 /* Header */
-/* styles.css */
 
 .header {
   display: flex;
@@ -308,12 +306,13 @@ input {
   height: 2.5rem;
   padding: 0.5rem 1rem;
   border-radius: 0.375rem;
-  background-color: #ff7675;
+  background-color: #f0518e;
   color: #fff;
+  border: none;
 }
 
 .header .upload-btn:hover {
-  background-color: #f69191;
+  background-color: #ea4c89;
 }
 a{
   text-decoration: none;
@@ -343,9 +342,7 @@ a{
   margin-bottom: 1rem;
 }
 
-.font-semibold {
-  font-weight: 600;
-}
+
 /* styles.css */
 
 /* Footer */
@@ -396,9 +393,7 @@ a{
   margin-left: 1rem;
 }
 
-.font-semibold {
-  font-weight: 600;
-}
+
 
 .mb-2 {
   margin-bottom: 0.5rem;
@@ -455,7 +450,7 @@ a{
 .new{
   font-size: 2rem;
   font-weight: bold;
-  color: #ff7675;
+  color: #ea4c89;
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
   font-weight: 400 - 700;
@@ -482,7 +477,8 @@ a{
 .custom-title {
   color: #ea4c89;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 2rem;
+  font-family: "Dancing Script", cursive;
 }
 
 .custom-icon {
@@ -492,7 +488,7 @@ a{
 }
 
 .custom-icon-holder{
-  margin-right:85%;
+  margin-right:83%;
   margin-top: 9px;
   background-color: #f3f4f6;
   border-radius: 10%;

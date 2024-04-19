@@ -28,7 +28,7 @@ export default function Component() {
                     <button className="bg-pink-500 text-white py-2 px-4 rounded mb-2">Choose image</button>
                 </div>
             </div>
-            <div className="mb-8">
+            <div className="mb-8">x
                 <h2 className="text-lg font-semibold mb-4">Add your location</h2>
                 <input placeholder="Enter a location" type="text" />
             </div>

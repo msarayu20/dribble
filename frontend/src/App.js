@@ -6,7 +6,7 @@ import Features from './Features';
 
 function App() {
   return (
-    <div><Features /></div>
+    <div><Profile /></div>
   );
 };
 
